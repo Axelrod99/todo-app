@@ -1,0 +1,41 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.first-div{
+    margin: 60px;
+    border: 1px solid black;
+}
+
+.mid-div{
+    text-align: center;
+    padding:20px;
+}
+
+input{
+    background-color: rgb(162, 205, 223);
+}
+
+.second-div{
+    margin: 60px;
+    border: 1px solid black;
+}
+
+.submit{
+    background-color: green;
+}
+
+.clearlist{
+    background-color: red;
+}
+
+#hh4{
+    text-align: center;
+    margin: auto 0;
+    color: red;
+}
+
+li{
+    padding: 6px;
+}
